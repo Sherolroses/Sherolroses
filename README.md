@@ -19,7 +19,7 @@ I am currently learning C++, Python, SQL, and web development languages to stren
 
 
 
-TOOLS:
+**TOOLS:**
 
 VS CODE
 
