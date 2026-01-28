@@ -18,7 +18,7 @@ Alongside my studies, I work as a Practice Manager at Dental and Ortho, assistin
 I am currently learning C++, Python, SQL, and web development languages to strengthen my programming skills and expand my technical knowledge. I would love to learn even more from companies with no limitations, expanding my skills and experience.
 
 
-Tools: 
+TOOLS:
 
 VS Code
 
