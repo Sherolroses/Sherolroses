@@ -21,9 +21,9 @@ I am currently learning C++, Python, SQL, and web development languages to stren
 
 **TOOLS:**
 
-VS CODE
+-VS CODE
 
-Code::Blocks
+-Code::Blocks
 
-QT CREATOR
+-QT CREATOR
 
