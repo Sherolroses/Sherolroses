@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋I'm Sheron Tanyanyiwa🌸
 
-I'm Sheron Tanyanyiwa🌸
 Aspiring Software Engineer | C++ • SQL • Python • HTML
 
 📍 South Africa  
