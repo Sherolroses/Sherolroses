@@ -27,7 +27,8 @@ I am currently learning C++, Python, SQL, and web development languages to stren
 
 -QT CREATOR
 
-##Learning Resources## 
+
+**Learning Resources:**
 
 AI tools and YouTube tutorials were used as learning resources to understand concepts, explore solutions, and guide development.  
 All code was reviewed, tested, and adapted by me as part of my learning process.
